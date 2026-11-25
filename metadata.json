@@ -1,0 +1,6 @@
+{
+  "name": "PRITHVI-NET",
+  "description": "Photorealistic 3D Environmental Digital Twin for industrial air-quality dispersion, urban hydrology, and predictive environmental intelligence in Ettimadai, Coimbatore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
